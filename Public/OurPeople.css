@@ -75,14 +75,12 @@
     text-align: center;
 }
 
-
-
 .hero-cards{
     position: relative;
     top: 10%;
     left: 0%;
     margin-top: 5%;
-    width: 800px;
+    width: 900px;
     height: auto;
     z-index: -1;
     text-align: center;
@@ -116,9 +114,9 @@
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 10px #000;
-    width: 300px;
-    height: 300px;
-    margin: 50px;
+    width: 400px;
+    height: 500px;
+    margin: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -130,8 +128,8 @@
     border-radius: 10px;
     box-shadow: 0 0 10px #000;
     width: 300px;
-    height: 300px;
-    margin: 30px;
+    height: 40px;
+    margin-top: -15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -150,32 +148,18 @@
     flex-direction: column;
 }
 
-.hero-form {
+.hero-footer{
     position: relative;
     top: 0%;
     left: 0%;
-    z-index: 0;
-    margin-top: 5%;
-    margin-bottom: 10%;
+    z-index: -1;
     text-align: center;
     display: flex;
     flex-direction: column;
-    background-color: whitesmoke;
-    box-shadow: 0 0 10px #000;
-    width: 800px;
+    width: 100%;
     height: auto;
 }
 
-.hero-footer{
-    position: relative;
-    top: 5%;
-    left: -10%;
-    z-index: 01;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    width: 3000px;
-    height: auto;
-}
+
 
 

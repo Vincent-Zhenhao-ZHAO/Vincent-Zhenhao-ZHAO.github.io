@@ -150,13 +150,13 @@
 
 .hero-footer{
     position: relative;
-    top: 5%;
-    left: -10%;
+    top: 0%;
+    left: 0%;
     z-index: 01;
     text-align: center;
     display: flex;
     flex-direction: column;
-    width: 3000px;
+    width: 100%;
     height: auto;
 }
 
