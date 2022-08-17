@@ -8,13 +8,13 @@
 }
 
 .hero {
-    background-image: url("https://img1.qunliao.info/fastdfs6/M00/18/76/rBUESWC6O_6AebkfAANOb-dkxI4696.jpg?imgW=1956&imgH=1262");
+    background-image: url("./srcs/index/pic/Hero-pic.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
     height: 100vh;
-    max-height: 500px;
+    max-height: 450px;
     width: auto;
     max-width: 100%;
     margin: 0 auto;
